@@ -1,0 +1,96 @@
+Naive Algorithm, input3_text1.txt
+
+Pattern: FREE
+Pattern found at index 342
+Pattern found at index 689
+Pattern found at index 1015
+Pattern found at index 1060
+Pattern found at index 1349
+
+
+Pattern: BRAVE
+Pattern found at index 361
+Pattern found at index 708
+Pattern found at index 1034
+Pattern found at index 1368
+
+
+Pattern: NATION
+Pattern found at index 1211
+
+
+Time taken (sec) = 0.001199
+Total comparisons: 4280
+
+Rabin-Karp Algorithm, input3_text1.txt
+
+Pattern: FREE
+Pattern found at index 342
+Pattern found at index 689
+Pattern found at index 1015
+Pattern found at index 1060
+Pattern found at index 1349
+
+
+Pattern: BRAVE
+Pattern found at index 361
+Pattern found at index 708
+Pattern found at index 1034
+Pattern found at index 1368
+
+
+Pattern: NATION
+Pattern found at index 1211
+
+
+Time taken (sec) = 0.001265
+Total comparisons: 4213
+
+KMP Search Algorithm, input3_text1.txt
+
+Pattern: FREE
+Found pattern at index 342
+Found pattern at index 689
+Found pattern at index 1015
+Found pattern at index 1060
+Found pattern at index 1349
+
+
+Pattern: BRAVE
+Found pattern at index 361
+Found pattern at index 708
+Found pattern at index 1034
+Found pattern at index 1368
+
+
+Pattern: NATION
+Found pattern at index 1211
+
+
+Time taken (sec) = 0.001007
+Total comparisons: 8258
+
+Boyer Moore's Algorithm, input3_text1.txt
+
+Pattern: FREE
+pattern occurs at shift = 342
+pattern occurs at shift = 689
+pattern occurs at shift = 1015
+pattern occurs at shift = 1060
+pattern occurs at shift = 1349
+
+
+Pattern: BRAVE
+pattern occurs at shift = 361
+pattern occurs at shift = 708
+pattern occurs at shift = 1034
+pattern occurs at shift = 1368
+
+
+Pattern: NATION
+pattern occurs at shift = 1211
+
+
+Time taken (sec) = 0.001499
+Total comparisons: 181
+
